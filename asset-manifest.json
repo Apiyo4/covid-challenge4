@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/covid-19-estimator/static/css/main.c4d2c6b5.chunk.css",
-    "main.js": "/covid-19-estimator/static/js/main.73ad13b2.chunk.js",
-    "main.js.map": "/covid-19-estimator/static/js/main.73ad13b2.chunk.js.map",
-    "runtime-main.js": "/covid-19-estimator/static/js/runtime-main.d4a58c00.js",
-    "runtime-main.js.map": "/covid-19-estimator/static/js/runtime-main.d4a58c00.js.map",
-    "static/js/2.485dbf84.chunk.js": "/covid-19-estimator/static/js/2.485dbf84.chunk.js",
-    "static/js/2.485dbf84.chunk.js.map": "/covid-19-estimator/static/js/2.485dbf84.chunk.js.map",
-    "index.html": "/covid-19-estimator/index.html",
-    "precache-manifest.dd73e8a9ed47204028e90a771fccb28f.js": "/covid-19-estimator/precache-manifest.dd73e8a9ed47204028e90a771fccb28f.js",
-    "service-worker.js": "/covid-19-estimator/service-worker.js",
-    "static/css/main.c4d2c6b5.chunk.css.map": "/covid-19-estimator/static/css/main.c4d2c6b5.chunk.css.map",
-    "static/js/2.485dbf84.chunk.js.LICENSE.txt": "/covid-19-estimator/static/js/2.485dbf84.chunk.js.LICENSE.txt"
+    "main.css": "/covid-challenge4/static/css/main.c4d2c6b5.chunk.css",
+    "main.js": "/covid-challenge4/static/js/main.ade6bf6b.chunk.js",
+    "main.js.map": "/covid-challenge4/static/js/main.ade6bf6b.chunk.js.map",
+    "runtime-main.js": "/covid-challenge4/static/js/runtime-main.c8fd515c.js",
+    "runtime-main.js.map": "/covid-challenge4/static/js/runtime-main.c8fd515c.js.map",
+    "static/js/2.485dbf84.chunk.js": "/covid-challenge4/static/js/2.485dbf84.chunk.js",
+    "static/js/2.485dbf84.chunk.js.map": "/covid-challenge4/static/js/2.485dbf84.chunk.js.map",
+    "index.html": "/covid-challenge4/index.html",
+    "precache-manifest.b5eba0f6ff58abdca9fcefef50d18dd2.js": "/covid-challenge4/precache-manifest.b5eba0f6ff58abdca9fcefef50d18dd2.js",
+    "service-worker.js": "/covid-challenge4/service-worker.js",
+    "static/css/main.c4d2c6b5.chunk.css.map": "/covid-challenge4/static/css/main.c4d2c6b5.chunk.css.map",
+    "static/js/2.485dbf84.chunk.js.LICENSE.txt": "/covid-challenge4/static/js/2.485dbf84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4a58c00.js",
+    "static/js/runtime-main.c8fd515c.js",
     "static/js/2.485dbf84.chunk.js",
     "static/css/main.c4d2c6b5.chunk.css",
-    "static/js/main.73ad13b2.chunk.js"
+    "static/js/main.ade6bf6b.chunk.js"
   ]
 }
